@@ -1,1 +1,1 @@
-Not Yet Done
+Bank Management System build using Spring Boot, incorporating user authentication, dashboard analytics, and secure transaction processing capabilities, leveraging MySQL as the backend database for efficient data storage and retrieval.
